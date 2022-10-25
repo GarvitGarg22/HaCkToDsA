@@ -1,6 +1,6 @@
 <H1><center><B>HACTOBERFEST 2022</B> </center> </H1>
 
-  <img src ='images/Hactoberfest2022'>
+  <img src ='https://hacktoberfestswaglist.com/img/Hfest-Logo-2-Color-Manga.png'>
  <H2>REGISTRATION</h2>
   Register anytime between September 26 and October 31
   <h2>Registration Link :https://hacktoberfest.com/ </h2>
