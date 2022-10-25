@@ -1,6 +1,6 @@
 <H1><center><B>HACTOBERFEST 2022</B> </center> </H1>
 
-  <img src ='https://www.google.com/url?sa=i&url=https%3A%2F%2Fmobile.twitter.com%2Fhacktoberfest&psig=AOvVaw1jJUhgsByTSX1DjlkfZ-3f&ust=1666768231961000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMiK2NTp-voCFQAAAAAdAAAAABAE'>
+  <img src ='images/Hactoberfest2022'>
  <H2>REGISTRATION</h2>
   Register anytime between September 26 and October 31
   <h2>Registration Link :https://hacktoberfest.com/ </h2>
